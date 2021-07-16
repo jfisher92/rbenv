@@ -1,3 +1,4 @@
 [submodule "plugins/ruby-build"]
 	path = plugins/ruby-build
 	url = https://github.com/rbenv/ruby-build.git
+    branch = master
